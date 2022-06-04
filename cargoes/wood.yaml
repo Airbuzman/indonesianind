@@ -1,16 +1,16 @@
-abbreviation: FD
+abbreviation: WD
 available: true
-classes: 132
-colour: 186
+classes: 528
+colour: 70
 id: 12
-label: FOOD
-longName: food
-name: Food
-penaltyLength: 20
-penaltyLowerBound: 0
+label: WOOD
+longName: wood
+name: Wood
+penaltyLength: 12
+penaltyLowerBound: 17
 price: 6908
 sprite:
-  filename: cargoes/food.png
+  filename: cargoes/wood.png
   left: 0
   top: 0
 unitName: Tonnes
